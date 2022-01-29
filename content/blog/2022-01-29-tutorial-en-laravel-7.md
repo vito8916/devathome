@@ -78,7 +78,7 @@ Migrated:  2019_08_19_000000_create_failed_jobs_table (0.03 seconds)
 
 Para comprobar que todo haya salido bien, vamos a nuestra base de datos y verificamos que las siguiente tablas hayan sido creadas
 
-![assets/images/tablas_passport.png](assets/images/tablas_passport.png)
+![table_passport](/assets/images/tablas_passport.png "table_passport")
 
 En el modelo User.php, agregar el uso de la clase HasApiTokens
 
