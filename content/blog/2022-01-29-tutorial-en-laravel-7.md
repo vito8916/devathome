@@ -78,7 +78,7 @@ Migrated:  2019_08_19_000000_create_failed_jobs_table (0.03 seconds)
 
 Para comprobar que todo haya salido bien, vamos a nuestra base de datos y verificamos que las siguiente tablas hayan sido creadas
 
-![Tutorial%20Laravel%20Passport%20475f5a6b17864326b265bd48c12db7c4/tablas_passport.png](Tutorial%20Laravel%20Passport%20475f5a6b17864326b265bd48c12db7c4/tablas_passport.png)
+![assets/images/tablas_passport.png](assets/images/tablas_passport.png)
 
 En el modelo User.php, agregar el uso de la clase HasApiTokens
 
