@@ -67,7 +67,6 @@ git clone https://github.com/vito8916/credentialAliat.git
 ```
 
 <div style="text-align: center;">
+<img src="/static/img/logotipo_vicxbox-02.png" alt="vicbox isotipo" width="200"/>
  <h3>Written by VicBox.dev</h3>
 </div>
-
-![vicbox isotipo](logotipo_vicxbox-02.png "vicboxLogo")
