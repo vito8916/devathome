@@ -1,18 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Dev at Home`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Victor Alvarado`,
+      summary: `Software engineer and open-source creator. This is my digital garden..`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A place where you can lear how to code from the scratch.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `vic89_m`,
     },
   },
   plugins: [
     `gatsby-plugin-image`,
+    "gatsby-plugin-netlify-cms",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
