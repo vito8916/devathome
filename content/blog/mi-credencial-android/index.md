@@ -3,7 +3,7 @@ title: Mi credencial - Android
 date: 2022-01-30T00:55:03.749Z
 description: Documentación de código fuente para el módulo Mi credencial de Aliat
 ---
----
+- - -
 
 ## Guía de instalación e integración
 
@@ -60,13 +60,14 @@ MainActivity.java                        actividad principal de la aplicación q
 
 # 4. Instalación
 
-- Vía GitHub ejecuta el siguiente comando en tu consola:
+* Vía GitHub ejecuta el siguiente comando en tu consola:
 
 ```bash
 git clone https://github.com/vito8916/credentialAliat.git
 ```
 
 <div style="text-align: center;">
-<img src="logotipo_vicxbox-02.png" alt="vicbox isotipo" width="200"/>
  <h3>Written by VicBox.dev</h3>
 </div>
+
+![vicbox isotipo](logotipo_vicxbox-02.png "vicboxLogo")
