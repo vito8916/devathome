@@ -29,9 +29,9 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="All posts" />
-      <Helmet>
+      {/* <Helmet>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-      </Helmet>
+      </Helmet> */}
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
