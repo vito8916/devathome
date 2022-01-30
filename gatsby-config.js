@@ -6,6 +6,7 @@ module.exports = {
       summary: `Software engineer and open-source creator. This is my digital garden..`,
     },
     description: `A place where you can lear how to code from the scratch.`,
+    pathPrefix: "/",
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `vic89_m`,
